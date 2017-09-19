@@ -1,0 +1,6 @@
+# ignore CLion files
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+
+
