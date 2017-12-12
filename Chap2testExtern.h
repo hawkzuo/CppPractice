@@ -1,0 +1,1 @@
+int testExtern = 10;

@@ -3,4 +3,10 @@
 CMakeLists.txt
 cmake-build-debug/
 
+# ignore source files from book
+C*/
+
+# ignore output files
+*.out
+
 
